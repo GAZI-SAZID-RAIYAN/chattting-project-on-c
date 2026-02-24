@@ -1,3 +1,5 @@
+We gave command to update the previous code according to the styling rules
+
 Programming Style Analysis Report
 Evaluation of server.c and client_gui.c According to Program and Programming Style Guidelines
 
