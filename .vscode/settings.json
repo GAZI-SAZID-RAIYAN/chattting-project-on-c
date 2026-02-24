@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ws2tcpip.h": "c",
+        "process.h": "c",
+        "stdio.h": "c"
+    }
+}
